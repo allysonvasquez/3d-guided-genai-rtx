@@ -30,6 +30,10 @@ Thumbs.db
 temp_*/
 ~/
 
+# Custom node / extension caches
+custom_nodes/*/__pycache__/
+blender_extensions/*/__pycache__/
+
 # Folders
 build/
 dist/
