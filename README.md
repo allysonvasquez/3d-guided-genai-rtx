@@ -44,7 +44,7 @@ Sample generation times using 30 steps at 1024x1024 on GeForce RTX 5090:
 | VAE | `flux2-vae.safetensors` |
 | Depth Preprocessor | `depth_anything_v2_vitl.pth` |
 
-The FLUX.2 Klein workflow uses 4 sampling steps with CFG 1 (euler/simple) at 1024x1024 resolution.
+The FLUX.2 Klein workflow uses 4 sampling steps with CFG 1 (euler/simple). Output resolution scales to ~1 megapixel, matching the aspect ratio of the Blender viewport.
 
 </details>
 
@@ -219,7 +219,7 @@ conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
 
 ### Install the Blueprint
 
-1. Download the 3D Guided GenAI installer for ARM (`3D_Guided_GenAI`).
+1. Download the [3D Guided GenAI installer for ARM](https://drive.google.com/file/d/15vRbSp8ownPHI8i2YeGjlj4mWUumbqwS/view) (`3D_Guided_GenAI`).
 2. Navigate to the downloaded file and make it executable:
 
 ```bash
