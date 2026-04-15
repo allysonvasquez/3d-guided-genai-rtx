@@ -1,5 +1,9 @@
 <h2>3D Guided Generative AI Blueprint</h2>
 
+> **NVIDIA INTERNAL ONLY:** This demo may NOT be used by OEM partners for guided live demonstrations without express permission from the demo contacts below. Do not redistribute it without prior authorization from the NVIDIA contacts below.
+>
+> **Contact:** Joel Pennington — jpennington@nvidia.com
+
 # Description
 
 The 3D Guided Generative AI Blueprint unlocks greater control over image generation by laying out the content in Blender to guide the image layout. Users can quickly alter the look of the 3D scene using generative AI, and the image outputs can be iterated on by making simple changes in the 3D viewport — such as changing the image perspective by adjusting the camera angle in Blender. Creators can ideate on scene environments much faster using generative AI, and adjustments are made much faster due to the control offered by using the viewport as a depth map.
